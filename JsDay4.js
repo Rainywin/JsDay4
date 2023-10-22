@@ -62,7 +62,7 @@ if (vegetables1 < 3 || vegetables1 > 10) {
     if (directory !== -1) {
         alert('Food is found at index ' + directory);
     } else {
-        alert('Food not found in the directory');
+        alert('Food not found');
     }
 
     foods[0] = 'START';
